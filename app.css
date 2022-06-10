@@ -1,0 +1,25 @@
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+#one {
+}
+
+#two {
+}
+
+h1 {
+}
+
+h2 {
+}
